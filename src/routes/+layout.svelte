@@ -47,7 +47,7 @@
 	<footer class="mt-12 border-t border-gray-200 bg-white">
 		<div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
 			<p class="text-center text-sm text-gray-500">
-				© 2024 Movie List App. Made with SvelteKit & Tailwind CSS
+				© 2025 Movie List App. Made with SvelteKit & Tailwind CSS
 			</p>
 		</div>
 	</footer>
