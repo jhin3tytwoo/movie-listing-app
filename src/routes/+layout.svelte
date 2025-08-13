@@ -12,8 +12,8 @@
 
 <div class="min-h-screen bg-gray-50">
 	<!-- Navigation -->
-	<nav class="border-b border-gray-200 bg-white shadow-lg">
-		<div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+	<nav class="mb-2 border-b border-gray-200 bg-white shadow-lg">
+		<div class="w-full p-2">
 			<div class="flex h-16 items-center justify-between">
 				<div class="flex items-center">
 					<a href="/" class="text-2xl font-bold text-indigo-600 hover:text-indigo-700">
@@ -39,7 +39,7 @@
 	</nav>
 
 	<!-- Main Content -->
-	<main class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+	<main class="w-full p-4">
 		{@render children?.()}
 	</main>
 

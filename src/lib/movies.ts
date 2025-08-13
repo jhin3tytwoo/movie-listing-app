@@ -7,7 +7,7 @@ export interface Movie {
 	director: string;
 	cast: string[];
 	rating: number;
-	duration: number; // minutes
+	duration: number;
 	poster: string;
 	description: string;
 	descriptionTh: string;

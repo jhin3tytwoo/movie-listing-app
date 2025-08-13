@@ -208,8 +208,9 @@
 								<img
 									src={relatedMovie.poster}
 									alt={relatedMovie.title}
-									class="h-48 w-full object-contain"
+									class="h-48 w-full object-cover"
 								/>
+
 								<div
 									class="absolute top-2 right-2 rounded-full bg-yellow-500 px-2 py-1 text-xs font-bold text-white"
 								>
